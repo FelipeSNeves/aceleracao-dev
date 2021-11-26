@@ -1,0 +1,3 @@
+// https://servicodados.ibge.gov.br/api/v1/localidades/regioes-intermediarias/4105
+
+{"id":4105,"nome":"Londrina","UF":{"id":41,"sigla":"PR","nome":"Paraná","regiao":{"id":4,"sigla":"S","nome":"Sul"}}}

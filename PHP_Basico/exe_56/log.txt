@@ -1,0 +1,3 @@
+Mensagem: A pasta ./exe_56/alunos não está vazia
+Arquivo: /var/www/html/aceleracao-dev/PHP_Basico/ex_56.php
+Linha: 27
